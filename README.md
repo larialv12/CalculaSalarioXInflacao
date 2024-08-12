@@ -1,4 +1,4 @@
-<h1> 📈 Sistema de Cálculo de Juros de Dívidas </h1>
+<h1> 📈 Sistema de calculo Salario X Inflacap </h1>
 Um sistema simples em JavaScript que calcula os juros de uma dívida com base no valor da dívida e nos dias de atraso.
 Este projeto permite que os usuários insiram o valor da dívida e o número de dias de atraso. O sistema então calcula e retorna o valor dos juros acumulados.
 <br>
