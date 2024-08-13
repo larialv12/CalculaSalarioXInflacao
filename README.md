@@ -1,10 +1,7 @@
 <h1> 📈 Sistema de calculo Salario X Inflacap </h1>
-Um sistema simples em JavaScript que calcula os juros de uma dívida com base no valor da dívida e nos dias de atraso.
-Este projeto permite que os usuários insiram o valor da dívida e o número de dias de atraso. O sistema então calcula e retorna o valor dos juros acumulados.
+um sistema que lista o salário mínimo e a inflação do IPCA entre 2010 e 2020. Além disso, a aplicação  lista um comparativo do percentual de crescimento desses dois valores nesse mesmo período.
 <br>
-<li>Juros de 5% para dívidas com até 15 dias de atraso.</li>
 
-<li>Juros de 10% para dívidas com mais de 15 dias de atraso.</li>
 
 
  <h2>🚀 Uso </h2>
