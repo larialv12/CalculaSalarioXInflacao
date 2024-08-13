@@ -1,15 +1,17 @@
-<h1> 📈 Sistema de calculo Salario X Inflacap </h1>
-um sistema que lista o salário mínimo e a inflação do IPCA entre 2010 e 2020. Além disso, a aplicação  lista um comparativo do percentual de crescimento desses dois valores nesse mesmo período.
+<h1> 📈 Sistema de calculo Salario X Inflação </h1>
+Um sistema que lista o salário mínimo e a inflação do IPCA entre 2010 e 2020. Além disso, a aplicação  lista um comparativo do percentual de crescimento desses dois valores nesse mesmo período.
 <br>
 
 
 
  <h2>🚀 Uso </h2>
-<li>Insira o valor da dívida</li>
+<h3>Escolha uma opcao:</h3>
 <br>
-<li>Insira o número de dias de atraso</li>
+<li>1-Lista o historico de salario minimo entre 2010 e 2020</li>
 <br>
-<li>O valor dos juros será exibido.</li>
+<li>2-Lista o historico de inflação entre 2010 e 2020</li>
+<br>
+<li>3-Lista de 2010 a 2020 0 historico de salario minimo e Inflaçao .Além de calcular o percentual de salario minimo. </li>
 
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
