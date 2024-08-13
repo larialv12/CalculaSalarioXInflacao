@@ -19,13 +19,13 @@ Clone este repositório:
 
 
 
-    git clone https://github.com/larialv12/aplicacao-calculo-de-juros
+    git clone https://github.com/larialv12/CalculaSalarioXInflacao
    
 
 
  Navegue até o diretório do projeto:
  
-     cd calculo-juros-dividas
+     cd CalculaSalarioXInflacao
 
 
 Execute o arquivo da aplicacao(Necessario ter Node.js instalado)
