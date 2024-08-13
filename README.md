@@ -11,7 +11,7 @@ Um sistema que lista o salário mínimo e a inflação do IPCA entre 2010 e 2020
 <br>
 <li>2 - Listar o historico de inflação entre 2010 e 2020</li>
 <br>
-<li>3 - Listar de 2010 a 2020 0 historico de salario minimo,Inflaçao e o percentual de salario minimo. </li>
+<li>3 - Listar de 2010 a 2020 o historico de salario minimo,Inflaçao e o percentual de salario minimo. </li>
 
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
